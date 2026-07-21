@@ -1,0 +1,30 @@
+INTRODUCTION TO DBMS(DATABASE MANAGEMENT SYSTEM)
+
+-Introduction to RDBMS
+-Over view
+-Architecture
+-Data models
+-Data schemes
+-Data independence
+
+Introduction to RDBMS(RELATIONAL DATABASE MANAGEMENT SYSTEM)
+-Codd's 12 rule
+-Relational data model
+-Relational Algebra
+-ER model to Relational model
+
+NORMALIZATION
+-Types of keys in DMS
+-Basic concept of normalization,need of normalization
+-1st normal form
+-2nd normal form
+-3rd normal form
+-BCNF IN DBMS
+
+Learning outcomes
+-I have done a hands on assighnment on normalization
+-learnt what is database
+-different data models
+-how to use ER model
+-how to normalise tables
+
